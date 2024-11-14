@@ -1,6 +1,6 @@
 # Welcome to "Bubbles&More" Feedback
 
-To leave feedback, such as finding a bug, or requesting a new feature, please go to [Issues](https://github.com/hawkwood/bubbles-n-more-feedback/issues) and [open a new Issue](https://github.com/hawkwood/bubbles-n-more-feedback/issues/new). 
+To leave feedback, such as finding a bug, or requesting a new feature, please go to [Issues](./issues) and [open a new Issue](./issues/new). 
 
 This repo is solely used for feedback, and does not contain any code.
 
