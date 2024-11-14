@@ -10,8 +10,8 @@ This repo is solely used for feedback, and does not contain any code.
 
 ## Known Issues
 ### Bubbles
-- hands have some odd lines and indent issues (Probably won't fix)
-- performance hit when showing eclipse waves (Probably won't fix)
+- hands have some odd lines and indent issues
+- performance hit when showing eclipse waves
 
 ### Cards
 - target on tower can sometimes get hit from the side
