@@ -1,6 +1,8 @@
 # Welcome to "Bubbles&More" Feedback
 
-To leave feedback, such as finding a bug, or requesting a new feature, please go to [Issues](https://github.com/hawkwood/fdbk-bam/issues) and [open a new Issue](https://github.com/hawkwood/fdbk-bam/issues/new). 
+If you'd like to leave a review, please do so on the [Meta App Store](https://www.meta.com/experiences/4335792166473090/)
+
+To leave other feedback, such as finding a bug, or requesting a new feature, please go to [Issues](https://github.com/hawkwood/fdbk-bam/issues) and [open a new Issue](https://github.com/hawkwood/fdbk-bam/issues/new). 
 
 This repo is solely used for feedback, and does not contain any code.
 
